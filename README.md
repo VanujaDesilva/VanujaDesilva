@@ -154,7 +154,7 @@ Article-based chatbot for question answering and revision support using LangChai
   <a href="https://www.linkedin.com/in/vanuja-desilva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vanuja%20De%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:desilvavanuja@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/vanujadesilva" target="_blank">
