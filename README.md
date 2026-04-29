@@ -2,9 +2,6 @@
 <h3 align="center">AI & Data Science Undergraduate | Building practical AI systems with LLMs, NLP, Computer Vision, and Edge AI</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=vanujadesilva">
-    <img src="https://komarev.com/ghpvc/?username=vanujadesilva&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" />
-  </a>
   <a href="https://github.com/vanujadesilva?tab=followers">
     <img src="https://img.shields.io/github/followers/vanujadesilva?label=Followers&style=for-the-badge&color=0f766e" alt="followers" />
   </a>
