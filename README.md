@@ -38,6 +38,19 @@ Offline AI fault diagnosis system for PLC troubleshooting using compact language
 - Safety-aware response generation
 
   </td>
+    <td width="50%" valign="top">
+
+### 🤖 Autonomous Research Agent
+Multi-agent research system for end-to-end question answering using ReAct and local LLM orchestration.
+
+**Highlights**
+- Five specialized AI agents
+- Custom ReAct loop from scratch
+- Web search, analysis, fact-checking, and report generation
+- FastAPI, Redis, and WebSocket streaming
+
+  </td>
+  
   <td width="50%" valign="top">
 
 ### 👁️ SeeFresh
@@ -64,18 +77,7 @@ Edge AI smart waste management system using embedded vision, IoT sensors, and re
 - Sensor-based bin monitoring
 
   </td>
-  <td width="50%" valign="top">
-
-### 🤖 Autonomous Research Agent
-Multi-agent research system for end-to-end question answering using ReAct and local LLM orchestration.
-
-**Highlights**
-- Five specialized AI agents
-- Custom ReAct loop from scratch
-- Web search, analysis, fact-checking, and report generation
-- FastAPI, Redis, and WebSocket streaming
-
-  </td>
+  
   </tr>
 </table>
 
