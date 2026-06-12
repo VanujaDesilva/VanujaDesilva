@@ -66,14 +66,14 @@ Edge AI smart waste management system using embedded vision, IoT sensors, and re
   </td>
   <td width="50%" valign="top">
 
-### 💬 NLP Study Chatbot
-Article-based chatbot for question answering and revision support using LangChain and vector search.
+### 🤖 Autonomous Research Agent
+Multi-agent research system for end-to-end question answering using ReAct and local LLM orchestration.
 
 **Highlights**
-- URL-based document ingestion
-- FAISS vector indexing
-- Interactive Q&A and MCQs
-- Streamlit-powered interface
+- Five specialized AI agents
+- Custom ReAct loop from scratch
+- Web search, analysis, fact-checking, and report generation
+- FastAPI, Redis, and WebSocket streaming
 
   </td>
   </tr>
