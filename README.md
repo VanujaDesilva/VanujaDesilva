@@ -37,7 +37,7 @@ Offline AI fault diagnosis system for PLC troubleshooting using compact language
 - Brand-aware industrial diagnostics
 - Safety-aware response generation
 
-  </td>
+    </td>
     <td width="50%" valign="top">
 
 ### 🤖 Autonomous Research Agent
@@ -49,9 +49,10 @@ Multi-agent research system for end-to-end question answering using ReAct and lo
 - Web search, analysis, fact-checking, and report generation
 - FastAPI, Redis, and WebSocket streaming
 
-  </td>
-  
-  <td width="50%" valign="top">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 👁️ SeeFresh
 Accessibility-focused AI web app that helps visually impaired users identify fruit and vegetable ripeness in real time.
@@ -62,9 +63,7 @@ Accessibility-focused AI web app that helps visually impaired users identify fru
 - Smartphone-friendly use case
 - Accessibility-first idea
 
-  </td>
-  </tr>
-  <tr>
+    </td>
     <td width="50%" valign="top">
 
 ### ♻️ Smart Bin System
@@ -76,8 +75,7 @@ Edge AI smart waste management system using embedded vision, IoT sensors, and re
 - TensorFlow Lite optimization
 - Sensor-based bin monitoring
 
-  </td>
-  
+    </td>
   </tr>
 </table>
 
